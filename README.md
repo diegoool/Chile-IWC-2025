@@ -1,4 +1,4 @@
-# Chile-IWC-2025
+# Chile-HWC-2025
 
 ## Partidos Chile - Torneo
 
